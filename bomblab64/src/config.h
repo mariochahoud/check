@@ -13,7 +13,7 @@ char *host_table[128] = {
 
     /* Put your host names here */
     /*"m-dclap-p302-csd.abudhabi.nyu.edu",*/
-      "cso-vm",
+      "cso-vm","cso-virtual-machine",
     0 /* The zero terminates the list */
 };
 
