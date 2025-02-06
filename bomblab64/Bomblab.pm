@@ -39,7 +39,7 @@ $LABID = "f19";
 # are running on? Note that you don't need root access to run the
 # bomblab.  Any Linux desktop will do.
 #$SERVER_NAME = "M-DCLAP-P302-CSD.ABUDHABI.NYU.EDU";
-$SERVER_NAME = "ip-172-31-19-48";
+$SERVER_NAME = "mario-virtual-machine";
 # What is the penalty for exploding a notifying bomb? At CMU, we impose
 # a penalty of 0.5 points per explosion.
 $EXPLOSION_PENALTY = 0.5;
